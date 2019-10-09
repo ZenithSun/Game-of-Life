@@ -12,3 +12,10 @@ The [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), also 
 
 Please see Game_of_Life.ipynb for more details.
 
+**Some Results in GIF format**
+
+- Glider Gun<br>
+![Glider Gun](https://github.com/ZenithSun/Game-of-Life/blob/master/GIFs/Glider%20Gun.gif)
+
+- Blinker<br>
+![Blinker](https://github.com/ZenithSun/Game-of-Life/blob/master/GIFs/Blinker.gif)
